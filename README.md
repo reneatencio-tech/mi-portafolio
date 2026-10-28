@@ -31,12 +31,13 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup.
 ## Enlaces utiles
  
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
-- [Mi perfil de GitHub](https://github.com/TU-USUARIO)
+- [Mi perfil de GitHub](https://github.com/reneatencio-tech)
+- [Guía del proyecto Tienda TECSUP](docs/GUIA.md)
  
 ## Captura de mi trabajo
  
 ![Pantalla principal del proyecto](img/captura.png)
-s
+
 
 ## Comandos que mas uso
  
