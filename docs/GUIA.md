@@ -79,7 +79,7 @@ Se corrigió el enlace de la hoja de estilos dentro de `index.html`.
 
 ## Evidencia del proyecto
 
-![Captura del proyecto Tienda TECSUP](../img/imagen.jpg)
+![Captura del proyecto Tienda TECSUP](../img/Imagen.jpg)
 
 ## Conclusión
 
